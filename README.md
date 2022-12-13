@@ -21,12 +21,12 @@ Bem como para o controle do Banco de Dados, que nesse caso foi o H2.
 Foi utilizada uma API pública para a busca do endereço, de forma que ao preencher o CEP, o campo cidade e endereço já recebem os valores.
 
 ## Página de cadastro de clientes
-![Tela de cadastro](/frontEnd-React/public/img/novoCliente.png)
+![Tela de cadastro](/img/novoCliente.png)
 
 ## Lista de clientes
-![Lista de Clientes](/frontEnd-React/public/img/listaClientes.png)
+![Lista de Clientes](/img/listaClientes.png)
 ## Renderização do Editar Clientes
-![Renderização do Editar clientes](/frontEnd-React/public/img/listaClientesEditar.png)
+![Renderização do Editar clientes](/img/listaClientesEditar.png)
 ## Área de edição e exclusão
-![Área de edição e exclusão](/frontEnd-React/public/img/editarExcluir.png)
+![Área de edição e exclusão](/img/editarExcluir.png)
 
