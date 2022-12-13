@@ -1,0 +1,92 @@
+.list {
+  text-align: left;
+  max-width: 1500;
+  margin: 15px;
+  border: 2px solid #000;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+  
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.container-modal {
+display: flex;
+}
+
+.pesquisar {
+display: flex;
+}
+
+.registro {
+  display: flex;
+  margin: 5px;
+  align-items: center;
+}
+
+.link {
+  color: blueviolet;
+}
+
+.nav-link {
+  color: #000;
+  font-weight: bold
+}
+
+.table-sm {
+  color:rgb(125, 122, 122);
+  font-size: 15px;
+}
+
+.table {
+  margin: 10px;
+  border: 1px solid rgb(188, 181, 181);
+
+}
+
+.container{
+  max-width: 95%;
+  max-height: 100vh;
+}
+
+#nameError {
+  display: none;
+  font-size: 0.8em;
+}
+
+#nameError.visible {
+  display: block;
+}
+
+input.invalid {
+  border-color: red;
+}
+
+.formCliente{
+
+}
+
+.fechar {
+ font-size: 30px;
+ background-color: transparent;
+ margin-left: 1190px;
+ color:crimson;
+ border: none;
+}
+
+#btn-salvar {
+margin-top: 10px;
+background-color: blueviolet;
+border: #000 1px solid;
+}
+
+#novo-registro{
+  border: none;
+  background-color: blueviolet;
+}
